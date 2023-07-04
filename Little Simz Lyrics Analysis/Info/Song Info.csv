@@ -1,0 +1,74 @@
+ID,AlbumID,SongNum,Song,SongReleaseDate,SongLength
+1,1,1,Persons,2015-09-18,124
+2,1,2,Wings,2015-09-18,246
+3,1,3,The Lights,2015-09-18,240
+4,1,4,Tainted,2015-09-18,240
+5,1,5,Gratitude,2015-09-18,217
+6,1,6,God Bless Mary,2015-09-18,256
+7,1,7,Dead Body,2015-08-17,231
+8,1,8,Full Or Empty,2015-09-18,264
+9,1,9,This Is Not An Outro,2015-09-18,161
+10,1,10,Fallen,2015-09-18,113
+11,2,1,LMPD,2016-12-16,243
+12,2,2,Cheshire's Interlude: Welcome to Wonderland,2016-12-16,62
+13,2,3,Doorways + Trust Issues,2016-12-16,253
+14,2,4,Her (Interlude),2016-12-16,117
+15,2,5,One In Rotation + Wide Awake,2016-12-16,235
+16,2,6,Shotgun,2016-12-16,188
+17,2,7,Picture Perfect,2016-12-16,183
+18,2,8,Cheshire's Interlude: Misled,2016-12-16,44
+19,2,9,King Of Hearts,2016-12-16,212
+20,2,10,Bad To The Bone,2016-12-16,195
+21,2,11,Zone 3,2016-12-16,222
+22,2,12,Poison Ivy,2016-12-16,209
+23,2,13,Cheshire's Interlude: Stay,2016-12-16,41
+24,2,14,Low Tides,2016-12-16,240
+25,2,15,No More Wonderland,2015-06-02,217
+26,2,16,Our Conversations,2017-11-03,363
+27,2,17,Backseat,2017-05-09,211
+28,2,18,Out Of Sight (yhyh),2017-11-03,271
+29,2,19,Morning,2017-11-03,203
+30,2,20,Phases,2017-11-03,276
+31,2,21,Days Like This (Interlude),2017-11-03,194
+32,2,22,Customz,2017-07-17,241
+33,2,23,Good For What,2017-10-10,173
+34,3,1,Offence,2018-09-17,168
+35,3,2,Boss,2018-09-23,185
+36,3,3,Selfish,2019-01-16,226
+37,3,4,Wounds,2019-03-01,279
+38,3,5,Venom,2019-03-01,155
+39,3,6,101 FM,2018-12-05,191
+40,3,7,Pressure,2019-03-01,208
+41,3,8,Therapy,2019-03-01,195
+42,3,9,Sherbet Sunset,2019-03-01,295
+43,3,10,Flowers,2019-03-01,225
+44,3,11,She,2019-03-01,225
+45,4,1,Introvert,2021-04-21,363
+46,4,2,Woman,2021-05-06,269
+47,4,3,Two Worlds Apart,2021-09-03,178
+48,4,4,"I Love You, I Hate You",2021-06-08,255
+49,4,5,"Little Q, Pt.1 (Interlude)",2021-09-03,68
+50,4,6,"Little Q, Pt. 2",2021-09-03,226
+51,4,7,Gems (Interlude),2021-09-03,177
+52,4,8,Speed,2021-09-03,160
+53,4,9,Standing Ovation,2021-09-03,248
+54,4,10,I See You,2021-09-03,238
+55,4,11,The Rapper That Came To Tea (Interlude),2021-09-03,165
+56,4,12,Rollin Stone,2021-06-14,219
+57,4,13,Protect My Energy,2021-09-03,188
+58,4,14,Never Make Promises (Interlude),2021-09-03,62
+59,4,15,Point and Kill,2021-09-01,185
+60,4,16,Fear No Man,2021-09-03,243
+61,4,17,The Garden (Interlude),2021-09-03,158
+62,4,18,How Did You Get Here,2021-09-03,296
+63,4,19,Miss Understood,2021-09-03,207
+64,5,1,Angel,2022-12-12,353
+65,5,2,Gorilla,2022-12-12,245
+66,5,3,Silhouette,2022-12-12,393
+67,5,4,No Merci,2022-12-12,317
+68,5,5,X,2022-12-12,364
+69,5,6,Heart On Fire,2022-12-12,238
+70,5,7,Broken,2022-12-12,449
+71,5,8,Sideways,2022-12-12,130
+72,5,9,Who Even Cares,2022-12-12,277
+73,5,10,Control,2022-12-12,227
